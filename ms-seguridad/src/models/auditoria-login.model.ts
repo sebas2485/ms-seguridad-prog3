@@ -10,7 +10,6 @@ export class AuditoriaLogin extends Entity {
   })
   _id?: string;
 
-
   @property({
     type: 'string',
     required: true,
